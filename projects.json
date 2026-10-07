@@ -1,0 +1,34 @@
+[
+
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "E-Commerce Website",
+    "body": "A modern e-commerce platform with shopping cart and payment integration.",
+    "category": "JavaScript",
+    "image": "https://images.unsplash.com/photo-1557821552-17105176677c?w=500",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+   
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Weather App",
+    "body": "Get real-time weather information for any location in the world.",
+    "category": "JavaScript",
+    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=500",
+    "technologies": ["HTML", "CSS", "JavaScript"]
+   
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Blog Website",
+    "body": "A clean and responsive blog website with multiple pages and categories.",
+    "category": "HTML/CSS",
+    "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=500",
+    "technologies": ["HTML", "CSS"]
+   
+  }
+  
+]
